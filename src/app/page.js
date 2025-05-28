@@ -1,3 +1,5 @@
+'use client';
+
 // pages/addCustomer.js
 import { useState } from 'react';
 
